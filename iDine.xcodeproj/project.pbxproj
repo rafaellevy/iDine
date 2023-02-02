@@ -45,7 +45,6 @@
 		A792A386298AF3A8008961D3 = {
 			isa = PBXGroup;
 			children = (
-				A792A3A8298B0B5D008961D3 /* ItemRow.swift */,
 				A792A391298AF3A8008961D3 /* iDine */,
 				A792A390298AF3A8008961D3 /* Products */,
 			);
@@ -63,6 +62,7 @@
 			isa = PBXGroup;
 			children = (
 				A792A392298AF3A8008961D3 /* iDineApp.swift */,
+				A792A3A8298B0B5D008961D3 /* ItemRow.swift */,
 				A792A394298AF3A8008961D3 /* ContentView.swift */,
 				A792A3A0298AF4A8008961D3 /* Helper.swift */,
 				A792A3A3298AF4C2008961D3 /* Menu.swift */,
