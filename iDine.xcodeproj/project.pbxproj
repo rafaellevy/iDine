@@ -16,6 +16,7 @@
 		A792A3A5298AF4C2008961D3 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = A792A3A3298AF4C2008961D3 /* Menu.swift */; };
 		A792A3A7298AF4D9008961D3 /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = A792A3A6298AF4D9008961D3 /* menu.json */; };
 		A792A3A9298B0B5D008961D3 /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = A792A3A8298B0B5D008961D3 /* ItemRow.swift */; };
+		A79C6BE0298C99EE00BA1FA1 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = A79C6BDF298C99EE00BA1FA1 /* ItemDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		A792A3A3298AF4C2008961D3 /* Menu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
 		A792A3A6298AF4D9008961D3 /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = menu.json; sourceTree = "<group>"; };
 		A792A3A8298B0B5D008961D3 /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
+		A79C6BDF298C99EE00BA1FA1 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				A792A392298AF3A8008961D3 /* iDineApp.swift */,
 				A792A3A8298B0B5D008961D3 /* ItemRow.swift */,
 				A792A394298AF3A8008961D3 /* ContentView.swift */,
+				A79C6BDF298C99EE00BA1FA1 /* ItemDetail.swift */,
 				A792A3A0298AF4A8008961D3 /* Helper.swift */,
 				A792A3A3298AF4C2008961D3 /* Menu.swift */,
 				A792A3A2298AF4C2008961D3 /* Order.swift */,
@@ -153,6 +156,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A79C6BE0298C99EE00BA1FA1 /* ItemDetail.swift in Sources */,
 				A792A395298AF3A8008961D3 /* ContentView.swift in Sources */,
 				A792A393298AF3A8008961D3 /* iDineApp.swift in Sources */,
 				A792A3A4298AF4C2008961D3 /* Order.swift in Sources */,
